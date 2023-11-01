@@ -10,6 +10,7 @@ pulse = {path = ".",editable = true}
 black = "*"
 pytest = "*"
 pylint = "*"
+pyinstaller = "*"
 
 [requires]
 python_version = "3.10"
